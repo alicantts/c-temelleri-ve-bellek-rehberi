@@ -6,7 +6,7 @@ Buradaki programlar, C dilinin temel mekanizmalarını, Stack & Heap bellek mima
 
 ## Kod İçeriği ve Açıklamaları
 
-##**BU KOD DİZİNLERİNDE..**
+##**BU KOD DİZİNLERİNDE:**
 
 ### 1. `01_veriler_ve_ram.c` — Veri Tipleri & RAM Adres Takibi
 - **Kapsam:** `char`, `int`, `float` veri tiplerinin tanımlanması ve G/Ç işlemleri.
